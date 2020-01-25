@@ -73,10 +73,10 @@ https://datasetsearch.research.google.com/search?query=vegan&docid=PMgK2KFPSKBbI
 
 ## You
 
-What do you care about?
+What do you care about? Consumer Behavior
 
 
-What do you know about?
+What do you know about? Since I’m a consumer myself, as anybody else who’s a part of the modern society, I’d like to gain more insights into what might be guiding our behavior when it comes to making purchases.
 
 
 What decisions do you face?
@@ -88,30 +88,38 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation. 
+How does the consumer behavior changes based on the geographical location?
 
 
-2. Trend related to the news
+2. Trend related to the news.
+How trends affect consumer behavior? Is there a way to predict the trends that would increase sales?
 
 
-3. Who does that?
+3. Who does that? 
+e.g. What marketing strategies are more successful will younger people/adults?
 
 
-4. Answering a question people care about
+4. Answering a question people care about.
+With the amount of the commercial ads we see everyday, do we still keep the ability to make the decision about purchasing on our own? Or are we primed to make every purchase we make?
 
 
-5. Valuable to businesses
+5. Valuable to businesses.
+How to use the data on consumer behavior to business’s advantage?
 
 
 6. What's the most popular?
 
 
-7. Cost/Money rankings
+7. Cost/Money rankings. 
+What marketing strategies have been most successful in the recent past?
 
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
+
+Some of the biggest misconceptions could be that all consumers act the same way, or that they are rational in their purchases and actually aware of the reasons of why they do what they do.
 
 
 ## Examples
@@ -131,3 +139,4 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
+https://datasetsearch.research.google.com/
